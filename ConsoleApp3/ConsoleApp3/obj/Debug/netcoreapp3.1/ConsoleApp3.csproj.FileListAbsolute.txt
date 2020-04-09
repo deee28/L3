@@ -1,0 +1,13 @@
+H:\3 курс\2\C#\ЛР_03 (Массивы в C#)\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp3.1\ConsoleApp3.csprojAssemblyReference.cache
+H:\3 курс\2\C#\ЛР_03 (Массивы в C#)\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp3.1\ConsoleApp3.csproj.CoreCompileInputs.cache
+H:\3 курс\2\C#\ЛР_03 (Массивы в C#)\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp3.1\ConsoleApp3.AssemblyInfoInputs.cache
+H:\3 курс\2\C#\ЛР_03 (Массивы в C#)\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp3.1\ConsoleApp3.AssemblyInfo.cs
+H:\3 курс\2\C#\ЛР_03 (Массивы в C#)\ConsoleApp3\ConsoleApp3\bin\Debug\netcoreapp3.1\ConsoleApp3.exe
+H:\3 курс\2\C#\ЛР_03 (Массивы в C#)\ConsoleApp3\ConsoleApp3\bin\Debug\netcoreapp3.1\ConsoleApp3.deps.json
+H:\3 курс\2\C#\ЛР_03 (Массивы в C#)\ConsoleApp3\ConsoleApp3\bin\Debug\netcoreapp3.1\ConsoleApp3.runtimeconfig.json
+H:\3 курс\2\C#\ЛР_03 (Массивы в C#)\ConsoleApp3\ConsoleApp3\bin\Debug\netcoreapp3.1\ConsoleApp3.runtimeconfig.dev.json
+H:\3 курс\2\C#\ЛР_03 (Массивы в C#)\ConsoleApp3\ConsoleApp3\bin\Debug\netcoreapp3.1\ConsoleApp3.dll
+H:\3 курс\2\C#\ЛР_03 (Массивы в C#)\ConsoleApp3\ConsoleApp3\bin\Debug\netcoreapp3.1\ConsoleApp3.pdb
+H:\3 курс\2\C#\ЛР_03 (Массивы в C#)\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp3.1\ConsoleApp3.dll
+H:\3 курс\2\C#\ЛР_03 (Массивы в C#)\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp3.1\ConsoleApp3.pdb
+H:\3 курс\2\C#\ЛР_03 (Массивы в C#)\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp3.1\ConsoleApp3.genruntimeconfig.cache
